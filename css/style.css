@@ -9,3 +9,22 @@
     display: table;
     clear: both;
 }
+
+.container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://fileom.eu/wp-content/uploads/2019/12/Stardust3.jpg');
+    background-size: cover;
+}
+
+#esito {
+    width: 60%;
+    height: 50px;
+    line-height: 50px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: 2px outset black;
+}
