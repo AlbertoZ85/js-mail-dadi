@@ -57,6 +57,3 @@ if (utente > computer) {
 // Stampa sul documento del risultato, con relativo colore di background
 document.getElementById('esito').innerHTML= risultato;
 document.getElementById('esito').style.backgroundColor = bgc;
-
-console.log(utente);
-console.log(computer);
